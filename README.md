@@ -466,4 +466,4 @@ java -ea -cp bin edu.ccrm.CCRMApp
    java -cp bin edu.ccrm.CCRMApp
    ```
 
-See [USAGE.md](USAGE.md) for detailed operation instructions.
+
